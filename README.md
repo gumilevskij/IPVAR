@@ -31,4 +31,4 @@ This toolbox is a translation of Matlab code to Python.
 ## Prerequisites:
 - Prior to using this toolbox please install numpy, scipy, pandas and matplotlib packages.
 
-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14649506.svg)](https://doi.org/10.5281/zenodo.14649506)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14649506.svg)](https://doi.org/10.5281/zenodo.14649506)
