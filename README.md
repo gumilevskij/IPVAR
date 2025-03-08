@@ -1,5 +1,5 @@
 # IPVAR
-Interacted Panel VAR Toolbox
+Interacted Panel VAR Toolbox.
 
 ## What is this?
 Toolbox that estimates a panel VAR allowing coefficients to vary 
